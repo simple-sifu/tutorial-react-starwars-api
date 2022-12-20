@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  background: black;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  margin: 50px;
+}
+
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  border: 1px solid black;
+  width: 300px;
+  padding: 20px;
+  background: white;
+}
+
+ul {
+  list-style-type: none;
+}
